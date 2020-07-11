@@ -56,6 +56,7 @@
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": true,
+      "showValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
   }
