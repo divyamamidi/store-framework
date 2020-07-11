@@ -54,7 +54,7 @@
   },
   "sku-selector": {
     "props": {
-      "hideImpossibleCombinations": true,
+      "hideImpossibleCombinations": false,
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true
     }
