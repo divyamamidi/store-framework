@@ -15,7 +15,7 @@
         "props": {
             "querySchema": {
               "orderByField": "OrderByReleaseDateASC",
-              "hideUnavailableItems": "true",
+              "hideUnavailableItems": true,
               "maxItemsPerPage": 8
             }
         }
